@@ -15,7 +15,8 @@ int main()
     printf ("los valores ingresados fueron:\n%d \n%d", a, b);
     return 0;
 }
-int numero(){
+int numero()
+{
     int num=0;
     scanf ("%d",&num);
     return num;
